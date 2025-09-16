@@ -42,6 +42,7 @@ python taint.py
 - [Tree-sitter 官方文档](https://tree-sitter.github.io/tree-sitter/)
 - [Tree-sitter Python绑定](https://github.com/tree-sitter/py-tree-sitter)
 - [Tree-sitter 语法仓库](https://github.com/tree-sitter)
+- https://github.com/Goldziher/uncomment
 
 ## 许可证
 
