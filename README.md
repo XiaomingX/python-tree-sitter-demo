@@ -34,7 +34,7 @@ python main.py
 
 3. 运行污点分析示例：
 ```bash
-python taint-x.py
+python taint.py
 ```
 
 ## Tree-sitter 学习资源
